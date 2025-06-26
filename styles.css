@@ -1,0 +1,21 @@
+.container-custom {
+    max-width: 95%; /* Ajustar el ancho para pantallas grandes */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.tabulator-header {
+    background-color: #007bff; /* Color azul para los títulos */
+    color: #ffffff;
+}
+
+.tabulator-cell {
+    padding: 10px;
+}
+
+#filterRow input {
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 3px;
+}
